@@ -11,17 +11,17 @@ python example.py X:\path\to\BenchmarkFMUs
 
 These instructions are valid for Windows.
 1. Install Anaconda
-....- Installer is available at <https://www.anaconda.com/download/>
+....* Installer is available at <https://www.anaconda.com/download/>
 2. Install pyfmi
-....Package for Anaconda is available at <https://anaconda.org/chria/pyfmi>
+....* Package for Anaconda is available at <https://anaconda.org/chria/pyfmi>
 3. Install python-constraint
-....- Package for Anaconda is available at <https://anaconda.org/conda-forge/python-constraint>
+....* Package for Anaconda is available at <https://anaconda.org/conda-forge/python-constraint>
 4. Install networkx
-....- Package for Anaconda is available at <https://anaconda.org/anaconda/networkx>
+....* Package for Anaconda is available at <https://anaconda.org/anaconda/networkx>
 5. Install BenchmarkFMUS
-....- Clone the repository from <https://github.com/sglumac/BenchmarkFMUs>
-....- Follow the instructions from <https://github.com/sglumac/BenchmarkFMUs> for the installation
-....- Choose 32 or 64 bit installation based on Anaconda installation
+....* Clone the repository from <https://github.com/sglumac/BenchmarkFMUs>
+....* Follow the instructions from <https://github.com/sglumac/BenchmarkFMUs> for the installation
+....* Choose 32 or 64 bit installation based on Anaconda installation
 6. Clone this repository
-....- The setup is complete
+....* The setup is complete
 
